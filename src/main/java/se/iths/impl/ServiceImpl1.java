@@ -8,6 +8,6 @@ public class ServiceImpl1 implements Service {
     }
 
     public void execute() {
-        System.out.println("100 USD = 950 SEK (exempel)");
+        System.out.println("100 USD = 950");
     }
 }
